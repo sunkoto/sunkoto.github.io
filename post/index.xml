@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 千百度Scratch编程教学</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on 千百度Scratch编程教学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 09 Sep 2022 09:00:00 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scratch编程-连续投篮</title>
+      <link>https://example.org/post/scratch%E7%BC%96%E7%A8%8B-%E8%BF%9E%E7%BB%AD%E6%8A%95%E7%AF%AE/</link>
+      <pubDate>Fri, 09 Sep 2022 09:00:00 +0800</pubDate>
+      
+      <guid>https://example.org/post/scratch%E7%BC%96%E7%A8%8B-%E8%BF%9E%E7%BB%AD%E6%8A%95%E7%AF%AE/</guid>
+      <description>视频链接：Scratch编程-连续投篮（附代码）
+游戏链接：连续投篮-编程猫</description>
+    </item>
+    
+  </channel>
+</rss>
